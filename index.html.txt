@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi web Formula Student</title>
+</head>
+<body>
+  <h1>¡Hola! Esta es mi web de Formula Student</h1>
+  <p>Hecha desde cero para aprender GitHub Pages.</p>
+</body>
+</html>
