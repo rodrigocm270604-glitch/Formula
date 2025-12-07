@@ -1,0 +1,23 @@
+/* Vídeo de fondo a pantalla completa */
+#bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+/* Estilos base */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: transparent; /* permite ver el vídeo */
+}
+
+/* Asegurar que el contenido queda encima */
+nav, header, main, section, footer, div {
+  position: relative;
+  z-index: 1;
+}
